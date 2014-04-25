@@ -31,11 +31,7 @@
 				
 				<div id="conteudo">
 						
-<<<<<<< HEAD
-										
-=======
-				testando								
->>>>>>> 9ade6f1df411db0b1d60397d4f05b100cfd1660c
+
 					
 				</div>
 				
